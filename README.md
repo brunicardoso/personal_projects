@@ -1,2 +1,2 @@
 # personal_projects
-Learning and personal projects
+fun and side projects
